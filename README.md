@@ -6,7 +6,7 @@ This project fine tunes a pre-trained Convolutional Neural Network (CNN) to dete
 
 AgeDetectionProject/
 ├── models/                    # Contains the saved trained model (.h5)
-├── notebooks/                 # Jupyter Notebook for training               
+├── notebooks/                 # Jupyter Notebook for training              
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project description and instructions
 
