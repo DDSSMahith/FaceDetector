@@ -31,7 +31,7 @@ jupyter notebook notebooks/age_detection_training.ipynb
 
 # Evaluation Metrics
 
-- Accuracy: ≥ 70%
+- Accuracy: ≥ 70% 
 - Confusion Matrix, Precision, and Recall are calculated to evaluate model performance.
 
 # Dataset
