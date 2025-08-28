@@ -14,7 +14,6 @@ AgeDetectionProject/
 
 |- README.md                  # Project description and instructions
 
-
 # How to Run
 
 1. Clone the repo and navigate to the directory, make sure to actually download the UTKFace dataset and keep the location as the base directory.
